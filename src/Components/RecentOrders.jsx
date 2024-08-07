@@ -62,7 +62,7 @@ const RecentOrders = () => {
   ];
 
   return (
-    <div className='w-full pb-4 flex flex-1 md:block'>
+    <div className='w-full pb-4 md:block'>
       <div className="bg-gray-800 p-4 rounded-lg">
       <h2 className='pb-4 text-xl font-bold text-white'>Recent Orders</h2>
       <table className="w-full">
